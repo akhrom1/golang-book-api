@@ -2,6 +2,17 @@
 
 API sederhana untuk manajemen **Categories** dan **Books** menggunakan Golang.
 
+## Authentication
+
+API ini menggunakan **Basic Auth**.
+
+Gunakan kredensial berikut untuk mengakses endpoint:
+
+- **Username:** `admin`
+- **Password:** `admin123`
+
+---
+
 ## Dokumentasi Postman
 
 Dokumentasi lengkap endpoint bisa diakses di sini:  
