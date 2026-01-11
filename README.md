@@ -13,10 +13,10 @@ Gunakan kredensial berikut untuk mengakses endpoint:
 
 ---
 
-## Dokumentasi Postman
+## Dokumentasi Swaggerhub
 
 Dokumentasi lengkap endpoint bisa diakses di sini:  
-👉 https://documenter.getpostman.com/view/21073811/2sBXVfiWdm#ab967fc1-8d24-4e9f-b584-f3cdf63ce1f7
+👉 https://app.swaggerhub.com/apis-docs/nonm/golang-book-api/1.0.0?view=uiDocs
 
 ---
 
