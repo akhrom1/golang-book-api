@@ -89,7 +89,6 @@ func DeleteCategory(c *gin.Context) {
 func GetBooksByCategory(c *gin.Context) {
 	id := c.Param("id")
 
-	// cek kategori ada atau tidak
 	var exists int
 	err := config.DB.QueryRow("SELECT id FROM categories WHERE id=$1", id).Scan(&exists)
 	if err == sql.ErrNoRows {
